@@ -1,0 +1,11 @@
+{
+  "name": "painel-controle",
+  "version": "0.2.3",
+  "description": "Presets por atividade: escolhe Vídeo, Site, Automação etc. e o modelo e o esforço trocam sozinhos.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pedro Guedes"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/pedroguedespro/claude-code-mods"
+}

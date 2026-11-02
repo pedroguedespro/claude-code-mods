@@ -1,0 +1,11 @@
+{
+  "name": "barra-creditos",
+  "version": "0.2.0",
+  "description": "Faixa acima do prompt com os limites de uso (5h e semanal) em barras e o gasto da sessão e do último prompt.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pedro Guedes"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/pedroguedespro/claude-code-mods"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "time-agentes",
+  "version": "0.2.2",
+  "description": "Time de agentes: cada subagente recebe o modelo da atividade que vai fazer (presets do painel-controle), com status e consumo numa faixa acima do prompt e num painel.",
+  "types": "./types/index.d.ts",
+  "dependencies": [
+    "painel-controle"
+  ],
+  "author": {
+    "name": "Pedro Guedes"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/pedroguedespro/claude-code-mods"
+}

@@ -1,0 +1,7 @@
+# Gerados pelo Claude Code ao carregar um mod
+.claude-plugin/types/
+**/.claude-plugin/types/
+**/tsconfig.json
+# Saída compilada (os mods rodam direto do .ts/.tsx)
+*.js
+node_modules/

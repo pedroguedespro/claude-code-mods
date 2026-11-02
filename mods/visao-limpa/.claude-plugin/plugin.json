@@ -1,0 +1,11 @@
+{
+  "name": "visao-limpa",
+  "version": "0.1.1",
+  "description": "Visão limpa: 'O que eu fiz' na faixa acima do prompt depois de cada resposta e, no VS Code/terminal, cada ação numa linha curta em português com botão de detalhes.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "Pedro Guedes"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/pedroguedespro/claude-code-mods"
+}

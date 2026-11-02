@@ -1,0 +1,32 @@
+{
+  "name": "claude-code-mods",
+  "owner": {
+    "name": "Pedro Guedes",
+    "url": "https://github.com/pedroguedespro"
+  },
+  "plugins": [
+    {
+      "name": "barra-creditos",
+      "source": "./mods/barra-creditos",
+      "description": "Faixa com os limites de uso e o gasto da sessão."
+    },
+    {
+      "name": "painel-controle",
+      "source": "./mods/painel-controle",
+      "description": "Presets por atividade: modelo e esforço trocam sozinhos."
+    },
+    {
+      "name": "time-agentes",
+      "source": "./mods/time-agentes",
+      "description": "Painel do time de agentes: modelo, status e consumo de cada subagente."
+    },
+    {
+      "name": "visao-limpa",
+      "source": "./mods/visao-limpa",
+      "description": "Resumo 'O que eu fiz' no fim de cada resposta e linhas curtas em português no VS Code/terminal."
+    }
+  ],
+  "metadata": {
+    "description": "Mods para o Claude Code: barra de créditos, painel de modelos por atividade, time de agentes com consumo e visão limpa."
+  }
+}
